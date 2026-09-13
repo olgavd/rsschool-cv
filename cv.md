@@ -31,4 +31,17 @@
 * [Laravel](https://github.com/olgavd/final-project-php-laravel)
 * [Вёрстка](https://github.com/olgavd/module-12)
 
+#### **Codewars**
 
+* Задача [Multiply](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript)
+* Сложность `8 kyu`
+* > This code does not execute properly. Try to figure out why.
+
+* Решение 
+
+```javascript
+function multiply(a, b){
+  return a * b;
+}
+```
+* Для решения задачи нужно было поставить `return` перед `a * b`, `;` ставить было необязательно.
